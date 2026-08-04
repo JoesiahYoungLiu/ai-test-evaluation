@@ -1,0 +1,3 @@
+[submodule "ai-test-evaluation/benchmarks/testgeneval"]
+	path = ai-test-evaluation/benchmarks/testgeneval
+	url = https://github.com/facebookresearch/testgeneval.git
